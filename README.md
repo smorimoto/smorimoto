@@ -7,6 +7,7 @@ appeal to taste or intuition.
 
 ### Other information
 
+- Pronouns: he/him
 - Languages: English, Chinese, Russian, and Japanese
 - Citizenship: Japan
 - Born: July 6, 2001
@@ -16,6 +17,6 @@ appeal to taste or intuition.
 Reach me at:
 
 - E-mail: <sora@morimoto.io>
-- Matrix: @smorimoto:matrix.org
+- Matrix: [@smorimoto:matrix.org](matrix:u/smorimoto:matrix.org)
 - Mastodon: [@smorimoto@mastodon.online](https://mastodon.online/@smorimoto)
 - Twitter: [@\_smorimoto](https://twitter.com/_smorimoto)
