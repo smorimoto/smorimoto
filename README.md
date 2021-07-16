@@ -9,7 +9,7 @@ or operating systems for a weird world in multidisciplinary teams.
 
 ### Other information
 
-- Pronouns: he/him
+- Pronouns: he/they
 - Languages: English, Chinese, Russian, and Japanese
 - Citizenship: Japan
 - Born: July 6, 2001
