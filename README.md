@@ -2,7 +2,7 @@
 
 Hi, I'm Sora Morimoto. I mainly use functional programming languages.
 Nevertheless, I'm not cynical about other programming languages and paradigms,
-even though I prefer the formalizable aspects, rather than the often subjective
+even though I prefer the formalisable aspects, rather than the often subjective
 appeal to taste or intuition. I'm currently living at the intersection between
 the industry and academia while working on language platforms or operating
 systems for a weird world in multidisciplinary teams.
@@ -11,7 +11,6 @@ systems for a weird world in multidisciplinary teams.
 
 - Languages: English, Chinese, Russian, and Japanese
 - Citizenship: Japan
-- Born: July 6, 2001
 
 ### Get in touch
 
