@@ -9,7 +9,7 @@ systems for a weird world in multidisciplinary teams.
 
 ### Other information
 
-- Languages: English, Chinese, Russian, and Japanese
+- Languages: English and Japanese
 - Citizenship: Japan
 
 ### Get in touch
@@ -17,6 +17,4 @@ systems for a weird world in multidisciplinary teams.
 Reach me at:
 
 - E-mail: <sora@morimoto.io>
-- Matrix: [@smorimoto:matrix.org](matrix:u/smorimoto:matrix.org)
-- Mastodon: [@smorimoto@mastodon.online](https://mastodon.online/@smorimoto)
-- Twitter: [@\_smorimoto](https://twitter.com/_smorimoto)
+- Signal: [@smorimoto.01](https://signal.me/#eu/nMCyThogDxdj/Mfber+XOshFOpYBcJwGwdI0t/VOdwk4aTGS1UpCeobvlzP2oEsz)
