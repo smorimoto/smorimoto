@@ -1,11 +1,11 @@
 ## About Me
 
-Hi, I'm Sora Morimoto. I mainly use functional programming languages.
-Nevertheless, I'm not cynical about other programming languages and paradigms,
-even though I prefer the formalisable aspects, rather than the often subjective
-appeal to taste or intuition. I'm currently living at the intersection between
-the industry and academia while working on language platforms or operating
-systems for a weird world in multidisciplinary teams.
+Hi, I'm Sora Morimoto. I'm currently living at the intersection of industry and
+academia, working on computer systems and programming language platforms in
+multidisciplinary teams. My primary focus lies within functional programming
+languages such as OCaml. Nevertheless, I'm not cynical about other programming
+languages and paradigms, even though my preference leans towards formalisable
+aspects rather than subjective appeals to taste or intuition.
 
 ### Other information
 
@@ -17,4 +17,5 @@ systems for a weird world in multidisciplinary teams.
 Reach me at:
 
 - E-mail: <sora@morimoto.io>
-- Signal: [@smorimoto.01](https://signal.me/#eu/nMCyThogDxdj/Mfber+XOshFOpYBcJwGwdI0t/VOdwk4aTGS1UpCeobvlzP2oEsz)
+- Signal:
+  [@smorimoto.01](https://signal.me/#eu/nMCyThogDxdj/Mfber+XOshFOpYBcJwGwdI0t/VOdwk4aTGS1UpCeobvlzP2oEsz)
